@@ -10,6 +10,7 @@ psycopg2-binary = "*"
 pillow = "*"
 djangocms-admin-style = "*"
 django-ckeditor = "*"
+django-allauth = "*"
 
 [dev-packages]
 
