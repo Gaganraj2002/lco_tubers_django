@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ["*"]
 
 INSTALLED_APPS = [
     "youtubers.apps.YoutubersConfig",
+    "hiretubers.apps.HiretubersConfig",
     "accounts.apps.AccountsConfig",
     'webpages.apps.WebpagesConfig',
     "djangocms_admin_style",
